@@ -1,0 +1,554 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2025-02-26T20:33:25.442Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2851000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Login",
+        "description": "",
+        "id": "demo;login",
+        "after": [
+          {
+            "result": {
+              "duration": 639000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1326000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is on login page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter correct credentials",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_enter_correct_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should be on dashboard page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_be_on_dashboard_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should see all the required details",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_see_all_the_required_details()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@chrome"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:30.283Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1076000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Login",
+        "description": "",
+        "id": "demo;login",
+        "after": [
+          {
+            "result": {
+              "duration": 619000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1227000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User is on login page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User enter correct credentials",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_enter_correct_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User should be on dashboard page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_be_on_dashboard_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User should see all the required details",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_see_all_the_required_details()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@chrome"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:33.212Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1082000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Login",
+        "description": "",
+        "id": "demo;login",
+        "after": [
+          {
+            "result": {
+              "duration": 622000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1366000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User is on login page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User enter correct credentials",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_enter_correct_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User should be on dashboard page",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_be_on_dashboard_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User should see all the required details",
+            "match": {
+              "location": "org.sai.glueCode.LoginPage.user_should_see_all_the_required_details()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@chrome"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:36.295Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1408000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Logout",
+        "description": "",
+        "id": "demo;logout",
+        "after": [
+          {
+            "result": {
+              "duration": 718000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1387000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is Click on hamberger menu",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_is_click_on_hamberger_menu()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User Select logout option",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_select_logout_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User shoud be on login page",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_shoud_be_on_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@edge"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:39.812Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1164000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "Logout",
+        "description": "",
+        "id": "demo;logout",
+        "after": [
+          {
+            "result": {
+              "duration": 697000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1269000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User is Click on hamberger menu",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_is_click_on_hamberger_menu()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User Select logout option",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_select_logout_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "User shoud be on login page",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_shoud_be_on_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@edge"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:42.945Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1163000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Logout",
+        "description": "",
+        "id": "demo;logout",
+        "after": [
+          {
+            "result": {
+              "duration": 733000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1512000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User is Click on hamberger menu",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_is_click_on_hamberger_menu()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User Select logout option",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_select_logout_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User shoud be on login page",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_shoud_be_on_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@edge"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2025-02-26T20:33:46.357Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1103000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.setUp(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 43,
+        "name": "Logout",
+        "description": "",
+        "id": "demo;logout",
+        "after": [
+          {
+            "result": {
+              "duration": 720000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "org.sai.Hooks.Hooks.terDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1580000000,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "User is Click on hamberger menu",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_is_click_on_hamberger_menu()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User Select logout option",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_select_logout_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "User shoud be on login page",
+            "match": {
+              "location": "org.sai.glueCode.LogOutPage.user_shoud_be_on_login_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@edge"
+          }
+        ]
+      }
+    ],
+    "name": "Demo",
+    "description": "",
+    "id": "demo",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/FeatureFiles/Demo.feature",
+    "tags": []
+  }
+]
